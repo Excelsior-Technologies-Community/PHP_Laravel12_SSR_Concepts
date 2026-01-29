@@ -360,8 +360,6 @@ Starts Node-based SSR server
 
 Renders Vue pages on the server
 
-On Windows, no output is shown — this is normal
-
 ---
 
 ##  Final Project Structure
