@@ -360,8 +360,6 @@ Starts Node-based SSR server
 
 Renders Vue pages on the server
 
-On Windows, no output is shown — this is normal
-
 ---
 
 ##  Final Project Structure
@@ -434,3 +432,5 @@ View Page Source: Confirm HTML is rendered server-side
 ---
 
 Your PHP_Laravel12_SSR_Concepts Project is now ready!
+
+
