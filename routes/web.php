@@ -16,3 +16,7 @@ Route::get('/posts', function () {
         'posts' => Post::latest()->get()
     ]);
 });
+
+Route::get('/posts-ui', function () {
+    return Inertia::render('Posts');
+});
